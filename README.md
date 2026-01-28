@@ -46,8 +46,9 @@ I focus on **clean code, clear documentation, and continuous learning**.
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/arielisn  
-- 🌱 GitHub: https://github.com/eliften  
+-  LinkedIn: https://www.linkedin.com/in/arielisn  
+-  GitHub: https://github.com/eliften
+-  Kaggle: https://www.kaggle.com/elifen
 
 ---
 
